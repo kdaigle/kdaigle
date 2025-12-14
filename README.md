@@ -7,5 +7,3 @@ I'm the COO at GitHub. I joined GitHub as a developer over 12 years ago and help
 - 📧 [kdaigle@github.com](mailto:kdaigle+helloworld@github.com)
 - X: [@kdaigle](https://x.com/kdaigle)
 - LinkedIn: [@kyledaigle](https://www.linkedin.com/in/kyledaigle/)
-
-⏭️ I'll see you at [GitHub Universe 2025](https://githubuniverse.com) in San Francisco, CA on October 28th and 29th! The developer wonderful is real, don't miss it. :sparkles:
